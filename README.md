@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm A-MAX
+<hr>
+<p> A programmer from Bangalore India </p>
+<p> I am currently studying in grade 8 </p>
 
 <!--
 **AstroMax101/AstroMax101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
