@@ -20,6 +20,6 @@ I am currently studying in grade 8
 
 <img src="https://www.computerhope.com/jargon/j/javascript.png" width="220px">
      
-<img src="https://developer.apple.com/swift/images/swift-og.png" width="150px">
+<img src="https://developer.apple.com/swift/images/swift-og.png" width="220px">
           
 </span>
