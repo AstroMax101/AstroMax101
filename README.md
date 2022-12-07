@@ -14,6 +14,6 @@ I am currently studying in grade 8
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="180px">
 
-<img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg">
+<img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg" width="200px">
 
-<img src="https://www.computerhope.com/jargon/j/javascript.png">
+<img src="https://www.computerhope.com/jargon/j/javascript.png" width="120px">
