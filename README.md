@@ -19,5 +19,7 @@ I am currently studying in grade 8
 <img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg" width="350px">
 
 <img src="https://www.computerhope.com/jargon/j/javascript.png" width="220px">
+     
+     <img src="https://developer.apple.com/swift/images/swift-og.png">
           
 </span>
