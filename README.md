@@ -22,6 +22,6 @@ I am currently studying in grade 8
      
 <img src="https://developer.apple.com/swift/images/swift-og.png" width="220px">
      
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="200px">
           
 </span>
