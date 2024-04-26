@@ -5,11 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AstroMax101&color=green)
 
-<h1>
+<h2>
 
 <b> My interests are:</b>
 
-</h1>
+</h2>
 
 <h3>
 
